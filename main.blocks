@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="roqH#E.|*$oocMuP$spF" x="38" y="58"><statement name="HANDLER"><block type="device_print_message" id="c`m:Y#5W{prLN.v?N*5L"><value name="text"><shadow type="text" id="bd1,sHTDc{H$eyZ88u#}"><field name="TEXT">Mary</field></shadow></value><next><block type="controls_repeat_ext" id="*FftI$O`d9mKa[TGo~MR"><value name="TIMES"><shadow type="math_whole_number" id="sFzTnpL$Al9n1%#r!P4;"><field name="NUM">2</field></shadow></value><statement name="DO"><block type="device_show_leds" id="3my`Br((eNq#/QX_+:sz"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="EZTmx*zO6Yb)9@l^/:m@"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . #
+        `</field></block></next></block></statement><next><block type="device_show_leds" id="J*B+V]9Qd7Pa9}m-0JMk"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block></xml>
